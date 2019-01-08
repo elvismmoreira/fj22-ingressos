@@ -9,6 +9,16 @@
     <version>1.0-SNAPSHOT</version>
     <packaging>war</packaging>
 
+  <developers>
+
+    <developer>
+ 
+ 	<name>Elvis Moreira</name>
+	<email>elvismmoreira@gmail.com</email>
+
+  </developer>
+	</developers>  
+  
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
