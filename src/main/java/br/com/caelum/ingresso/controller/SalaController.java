@@ -27,6 +27,7 @@ public class SalaController {
 
     @Autowired
     private SalaDao salaDao;
+    @Autowired
     private SessaoDao sessaoDao;
 
     @GetMapping({"/admin/sala", "/admin/sala/{id}"})
