@@ -49,4 +49,8 @@ public class Sessao {
 	public void setSala(Sala sala) {
 		this.sala = sala;
 	}
+	
+	public LocalTime getHorario() {
+		return horario;
+	}
 }
